@@ -4,5 +4,5 @@
     "**/bower_components": true,
     "**/.sfdx": true
   },
-  "salesforcedx-vscode-core.retrieve-test-code-coverage": true // Add this code to your settings.json file
+  "salesforcedx-vscode-core.retrieve-test-code-coverage": true
 }
